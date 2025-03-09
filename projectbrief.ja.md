@@ -1,9 +1,9 @@
-# projectbrief.md
+# projectbrief.ja.md
 
 ## 1. プロジェクト概要
 
 ### プロジェクト名
-仮称: **Prototype Scaffolder CLI**
+仮称: **prototyper**
 
 ### 背景
 - システム開発のプロトタイプを素早く作りたいが、毎回の環境構築や初期設定が面倒で生産性が落ちている。

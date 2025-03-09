@@ -1,9 +1,9 @@
-# projectbrief.en.md
+# projectbrief.md
 
 ## 1. Project Overview
 
 ### Project Name
-Tentative: **Prototype Scaffolder CLI**
+Tentative: **prototyper**
 
 ### Background
 - Developing system prototypes quickly is desirable, but each time a new environment must be set up, which reduces productivity.
